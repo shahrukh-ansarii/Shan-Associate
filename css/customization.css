@@ -1,0 +1,227 @@
+.imgFluidD{
+  padding-bottom: 34px;
+}
+.cta .cta-block .emmergency {
+  background-color: rgb(228, 26, 26);
+}
+.cta .cta-block .top-doctor {
+    background: rgb(238, 39, 39);
+}
+.cta .cta-block .working-time {
+    background: rgb(231, 69, 69);
+}
+.btn-style-one {
+  background: rgb(228, 26, 26);
+  border: 1px solid rgb(228, 26, 26);
+}
+.navbar {
+ background: rgb(14, 13, 13);
+}
+.icon-box {
+  border: 1px solid 227, 37, 34;
+}
+.header-uper .contact-info .item .icon-box {
+  border: 1px solid rgb(228, 26, 26);
+}
+.header-uper .contact-info .item .icon-box i:before {
+    color: rgb(228, 26, 26);
+  }
+.back-to-top {
+  background: rgb(238, 41, 41);
+}
+.testimonial-section:before {
+    background: rgb(228, 26, 26)ad;
+}
+.tabs .nav-tabs li a.active, .tabs .nav-tabs li a:hover {
+    background: rgb(228, 26, 26);
+    border: 2px solid rgb(228, 26, 26);
+}
+
+.tabs .nav-tabs li a {
+    border: 2px solid rgb(228, 26, 26);
+}
+
+.team-section .team-member .contents .btn-main {
+    background: #fff;
+    color: rgb(228, 26, 26);
+    border: 1px solid rgb(228, 26, 26);
+  }
+
+.team-section .team-member .contents .btn-main:hover {
+  background: rgb(228, 26, 26);
+}
+
+.footer-main .footer-top .social-icons li a {
+  color: rgb(228, 26, 26);
+}
+.accordion-section .accordion-holder .card .card-header h4 a {
+      background: rgb(228, 26, 26);
+}
+
+.service-section .items-container .slick-prev:before, .service-section .items-container .slick-next:before {
+    color: rgb(228, 26, 26);
+}
+.btn-style-one:hover {
+    color: rgb(228, 26, 26);
+    border: 1px solid rgb(228, 26, 26);
+  }
+
+  .fa-font-A:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "A";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-B:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "B";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-C:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "C";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-D:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "D";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-E:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "E";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-F:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "F";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-G:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "G";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-H:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "H";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-I:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "I";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-J:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "J";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-K:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "K";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-L:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "L";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-M:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "M";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+  .fa-font-N:before {
+          font-family: roboto;
+          color: #00984a;
+          font-size: 2em;
+          content: "N";
+          border: 4px solid #00984a;
+          border-radius: 20px;
+  }
+
+
+  .team-section .team-member img {
+    height : 300px;
+  }
+
+  .hero-slider .slider-item:before {
+      background: #00984a3d;
+    }
+
+
+
+
+
+/* Extra small devices (phones, 600px and down) */
+/* @media only screen and (max-width: 600px) {...} */
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) {...} */
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px ) and (max-width: 989px) {
+  .header-uper .right-side .link-btn {
+    margin-top: 20px;
+  }
+  .header-uper .contact-info {
+     float: none;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .imgFluidD{
+    width: 360px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 992px) {...} */
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {...} */
+
+
+
+/* setting logo width for mobile */
+/* @media screen and only (max-width: 989px) {
+
+} */
